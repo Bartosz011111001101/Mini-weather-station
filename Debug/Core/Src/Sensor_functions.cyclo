@@ -1,0 +1,9 @@
+../Core/Src/Sensor_functions.c:35:8:user_i2c_read	3
+../Core/Src/Sensor_functions.c:42:6:user_delay_ms	1
+../Core/Src/Sensor_functions.c:46:8:user_i2c_write	2
+../Core/Src/Sensor_functions.c:60:6:DHT11_Start_struct	1
+../Core/Src/Sensor_functions.c:67:9:Check_Response_struct	4
+../Core/Src/Sensor_functions.c:79:6:Set_Pin_Input_struct	1
+../Core/Src/Sensor_functions.c:87:6:Set_Pin_Output_struct	1
+../Core/Src/Sensor_functions.c:96:6:delay_struct	2
+../Core/Src/Sensor_functions.c:101:9:DHT11_Read_struct	5
